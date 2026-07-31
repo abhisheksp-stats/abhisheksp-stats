@@ -33,6 +33,7 @@ I'm a **data professional based in Kerala, India**, currently working as an **R 
 
 ![Tidyverse](https://img.shields.io/badge/Tidyverse-1A162D?style=for-the-badge&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-FF6F00?style=for-the-badge&logo=r&logoColor=white)
+![testthat](https://img.shields.io/badge/testthat-4051B5?style=for-the-badge&logo=r&logoColor=white)
 
 
 **Tools & Platforms**
